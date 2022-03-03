@@ -1,0 +1,28 @@
+{
+    "popular": [
+        {
+            "title": "Boruto: Naruto the Movie",
+            "img": "https://gogocdn.net/images/upload/175815.jpg",
+            "synopsis": "Plot Summary: Boruto is the son of the 7th Hokage Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain on the story of the new generation written by Masashi Kishimoto rises!",
+            "genres": [
+                "action",
+                "adventure",
+                "martial-arts",
+                "shounen",
+                "super-power"
+            ],
+            "released": 2015,
+            "status": "Completed",
+            "otherName": "BORUTO -NARUTO THE MOVIE-",
+            "totalEpisodes": 2,
+            "episodes": [
+                {
+                    "id": "boruto-naruto-the-movie"
+                },
+                {
+                    "id": "boruto-naruto-the-movie-episode-1"
+                }
+            ]
+        }
+    ]
+}

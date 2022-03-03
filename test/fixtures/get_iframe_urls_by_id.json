@@ -1,0 +1,46 @@
+{
+    "anime": [
+        {
+            "img": "https://gogocdn.net/cover/boruto-naruto-next-generations.png",
+            "synopsis": "Plot Summary: Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!",
+            "genres": [
+                "action",
+                "adventure",
+                "martial-arts",
+                "shounen",
+                "super-power"
+            ],
+            "category": "spring-2017-anime",
+            "released": 2017,
+            "status": "Ongoing",
+            "otherName": "BORUTO -NARUTO NEXT GENERATIONS-",
+            "totalEpisodes": 239,
+            "servers": [
+                {
+                    "name": "Vidstreaming",
+                    "iframe": "gogoplay.io/streaming.php?id=OTc2MzI=&title=Boruto%3A+Naruto+Next+Generations+Episode+1"
+                },
+                {
+                    "name": "Gogo server",
+                    "iframe": "gogoplay.io/embedplus?id=OTc2MzI=&token=iXsb4Z-7SsQRXRUbhEGn9w&expires=1645955161"
+                },
+                {
+                    "name": "Streamsb",
+                    "iframe": "https://sbplay2.com/e/nb7suf37mhl7"
+                },
+                {
+                    "name": "Server Hydrax",
+                    "iframe": "https://hydrax.net/watch?v=O1i4Iihhk"
+                },
+                {
+                    "name": "Xstreamcdn",
+                    "iframe": "https://fembed-hd.com/v/rqndxce-q028xwg"
+                },
+                {
+                    "name": "Doodstream",
+                    "iframe": "https://dood.ws/e/b1xgvykv7oeh"
+                }
+            ]
+        }
+    ]
+}

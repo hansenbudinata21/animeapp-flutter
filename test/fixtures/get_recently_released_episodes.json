@@ -1,0 +1,46 @@
+{
+    "anime": [
+        {
+            "title": "Kenja no Deshi wo Nanoru Kenja",
+            "img": "https://gogocdn.net/cover/kenja-no-deshi-wo-nanoru-kenja.png",
+            "synopsis": "Plot Summary: Sakimori Kagami plays a VRMMORPG called Arch Earth Online. He is a veteran player with the name and appearance similar to an elderly bearded wizard from a certain book about a ring.\nOne day he purchases an appearance change item as a last resort to spend expiring currency and gets the idea of choosing what he would want to look like if his character was ever a girl.\nFalling asleep should have suspended the game, but Kagami wakes up still online and feels the game has has gotten a bit more realistic. Did Arch Earth Online finally get a long-awaited update?",
+            "genres": [
+                "adventure",
+                "fantasy"
+            ],
+            "category": "winter-2022-anime",
+            "episode": 7,
+            "id": "/kenja-no-deshi-wo-nanoru-kenja-episode-7",
+            "totalEpisodes": 8,
+            "released": 2021,
+            "status": "Ongoing",
+            "otherName": "賢者の弟子を名乗る賢者 ; けんじゃのでしをなのるけんじゃ ; Kendeshi ; She Professed Herself Pupil of the Wise Man ; She Professed Herself Pupil of the Wiseman",
+            "servers": [
+                {
+                    "name": "Vidstreaming",
+                    "iframe": "gogoplay.io/streaming.php?id=MTgxMTk4&title=Kenja+no+Deshi+wo+Nanoru+Kenja+Episode+7"
+                },
+                {
+                    "name": "Gogo server",
+                    "iframe": "gogoplay.io/embedplus?id=MTgxMTk4&token=qkpoL8XkyvPRW2eHSQCNYQ&expires=1645626188"
+                },
+                {
+                    "name": "Streamsb",
+                    "iframe": "https://sbplay2.com/e/5qc9co6x7pqs"
+                },
+                {
+                    "name": "Xstreamcdn",
+                    "iframe": "https://fembed-hd.com/v/p1nrxtmqy3pym3-"
+                },
+                {
+                    "name": "Mp4Upload",
+                    "iframe": "https://www.mp4upload.com/embed-1pxm3kwuq08p.html"
+                },
+                {
+                    "name": "Doodstream",
+                    "iframe": "https://dood.ws/e/mzicllm8pmy1"
+                }
+            ]
+        }
+    ]
+}
